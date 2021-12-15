@@ -2,8 +2,7 @@
 #### A Professional front end developer from Bangladesh
 ![A Professional front end developer from Bangladesh](https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/261704406_136896918720621_1422109831382803600_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFOS29sKClUrGGwazKSFyWa0X3m4z40_H7RfebjPjT8fuX0RLdnhtDm8aNuDeublKvZrCun7Vo7YBjaauLSIB_u&_nc_ohc=EYo3Fb-qfSwAX-7ij3s&_nc_zt=23&_nc_ht=scontent.fdac34-1.fna&oh=00_AT-xcd_u6JkzKM2G2JgWAUPYHGq9fLe1fKCDP7owQiTdwA&oe=61BF119B)
 
-and I do content on Web Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress.
-
+I'm MD. Rezaul Karim from Bangladesh, and I do content on Web Design and Development. 
 Skills: PHP / REACT / JS / HTML / CSS / WORDPRESS
 
 - 🔭 I’m currently working on https://northbengalitclub.com 
